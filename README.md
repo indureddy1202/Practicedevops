@@ -1,2 +1,0 @@
-# Practicedevops
-/bin/bash!
